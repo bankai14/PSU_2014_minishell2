@@ -1,0 +1,14 @@
+builtins
+le_cd
+liste.o
+lol
+main.c
+main.h
+Makefile
+#Makefile#
+mysh
+parsing
+process
+str4.o
+struct.h
+test
